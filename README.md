@@ -1,2 +1,2 @@
 # tutorial
-first time to use Gtt
+first time to use Git
